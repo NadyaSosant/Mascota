@@ -1,3 +1,6 @@
+package modelo;
+
+
 import java.util.Scanner;
 //Bajas de Veterinarios o asistente personal, citas de veterinarios a Domicilio, AdopciC3n de mascotas, DevoluciC3n de mascotas
 public class Registro {
