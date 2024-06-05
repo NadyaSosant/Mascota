@@ -1,3 +1,6 @@
+package modelo;
+
+
 import java.util.Scanner;
 //Altas, consultas, pagos
 public class Paquetes {
