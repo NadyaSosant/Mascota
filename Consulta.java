@@ -1,3 +1,6 @@
+package modelo;
+
+
 import java.util.Scanner;
 //Citas de veterinarios, de adopciones, veterinario 
 public class Consulta {
