@@ -1,3 +1,6 @@
+package modelo;
+
+
 import java.util.Scanner;
 //Cliente, Mascotas, Veterinarios o asistente personal y Gerente de sucursal
 public class Altas {
